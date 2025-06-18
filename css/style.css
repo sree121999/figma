@@ -1,0 +1,47 @@
+/* author :pooja */
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: 0;
+}
+.active{
+    color: #5E3BEE!important
+}
+#hero h1{font-size: 22px;
+
+}
+#hero strong{
+    color:#5E3BEE
+}
+#expertise img{
+    height: 80px;
+    width: 80px;
+}
+#expertise .card{
+    background-color:#ECFFFD;
+    min-height: 250px;
+    
+}
+.social-icon{
+    height: 15px;
+    width: 15px;
+    
+}
+#portfolio .btn{
+    height: 40px;
+    width: 170px;}
+
+    .cardimg{
+        height: 230px;
+        width: 300px;
+    }
+
+    #portfolio .card{
+        width: 300px;
+        
+    }
+
+    textarea {
+      width: 100%;
+      height: 120px;}
+     
